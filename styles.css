@@ -1,0 +1,21 @@
+.header {
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 10px 10px;
+    height: 60px;
+    margin: 10px 0 10px 0px ;
+    }
+.icon1 {
+    font-size: 30px;
+}
+
+.head_instagram{
+    padding: 9px 0 0 0;
+}
+.head_right{ 
+    padding: 0 0 0 0;
+}
+.icon_cennter{ 
+font-size: 22px;
+}
